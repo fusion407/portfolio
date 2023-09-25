@@ -1,149 +1,61 @@
 {
     "projects" : [
         {
-            "image" : "images/projects/portfolio-poster.png",
-            "title": "Dev Portfolio",
-            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "image" : "images/projects/dnd.png",
+            "title": "Dungeons and Dragons Character Creator",
+            "bodyText": "- Manipulated the DOM using vanilla Javascript functions in order to create an interactive single page environment.\n - Utilized CSS in order to stylize an interesting and mobile-friendly design.\n - Fetched data from an external API to display information that aids users to make decisions in character creation.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
+                    "href": "https://github.com/fusion407/DnD-Character-Creator"
                 },
                 {
                     "text": "Live",
-                    "href": "https://mayankagarwal.me"
+                    "href": "https://fusion407.github.io/DnD-Character-Creator/"
                 }
             ],
             "tags" : [
-                "React",
-                "Portfolio",
-                "JavaScript"
+                "HTML",
+                "CSS",
+                "Vanilla JavaScript"
             ]
         },
         {
-            "image" : "images/projects/caaring-poster.png",
-            "title": "Caaring -  Cab Share App",
-            "bodyText": "- A Cab Sharing web app made using **Django** for **VIT** Students. People can create a new cab or request to join an existing cab.\n - Added User authentication and password reset using **SendGrid**.\n - Deployed on **heroku** using **gunicorn**.",
+            "image" : "images/projects/event-management-system.png",
+            "title": "Event Management System",
+            "bodyText": "- Full CRUD was implemented to allow users to utilize routes for manipulating event data.\n - Added validations in each form so data being created stays consistent with written constraints.\n - Developed with ReactJS and Ruby on Rails to create a full stack application.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Caaring"
+                    "href": "https://github.com/fusion407/event-management-system"
                 },
                 {
                     "text": "Live",
-                    "href": "http://caaring.herokuapp.com"
+                    "href": "https://event-management-system-qmse.onrender.com/"
                 }
             ],
             "tags" : [
-                "Python",
-                "Django",
-                "BootStrap",
-                "SendGrid",
-                "Heroku",
-                "Gunicorn",
-                "VIT"
+                "ReactJS",
+                "Ruby on Rails",
+                "PostgreSQL",
+                "Material UI"
             ]
         },
         {
-            "image" : "images/projects/quiet-hours-poster.jpg",
-            "title": "Quiet Hours App",
-            "bodyText": "- An Android App that **automatically silences** your phone during class hours, designed for **VITians**.\n - Option to select class **slots** and **custom time**.\n - Option to put on Vibrate instead of Silent.",
+            "image" : "images/projects/roleplay-chat.png",
+            "title": "Roleplay Chat",
+            "bodyText": "- Implemented full authentication and authorization to ensure user security.\n - Used ActionCable to create a bi-directional communication between server and client.\n - Utilized cookies to store encrypted user data to keep the user signed in when they re-visit.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/QuietHours-Android"
+                    "href": "https://github.com/fusion407/Roleplay-chat"
                 }
             ],
             "tags" : [
-                "Java",
-                "Android",
-                "Alarm Manager",
-                "VIT"
-            ]
-        },
-        {
-            "title": "Secure Chat App",
-            "bodyText": "- An Android App that allows users to send texts in real time.\n - End to End encryption using **RSA** Algorithm.\n - Uses **Firebase** database to store texts.\n - Secured with **Fingerprint** lock.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/SecureChatApp"
-                }
-            ],
-            "tags" : [
-                "Java",
-                "Android",
-                "Firebase",
-                "RSA"
-            ]
-        },
-        {
-            "title": "MVVM Sample App",
-            "bodyText": "- An Android App that loads data from mock API and show in both **LinearLayout** and **GridLayout RecyclerView**.\n - Offline support using **Room** DB and **NetworkBoundResource**.\n - Uses the **MVVM** architecture.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/mvvm-sample-app"
-                }
-            ],
-            "tags" : [
-                "Kotlin",
-                "Android",
-                "MVVM",
-                "Room",
-                "Coroutines",
-                "Flow",
-                "Hilt-Dagger",
-                "NetworkBoundResource"
-            ]
-        },
-        {
-            "title": "Feed List App",
-            "bodyText": "- An Android App that loads list of feeds from a **paginated** API and shows in a RecyclerView.\n - Uses the **MVVM** architecture.\n - Uses **Paging 3** library along with other Architecture Components.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Paginated-App-Feeds-List"
-                }
-            ],
-            "tags" : [
-                "Kotlin",
-                "Android",
-                "MVVM",
-                "Paging 3",
-                "Coroutines",
-                "Flow"
-            ]
-        },
-        {
-            "title": "Task Tracker",
-            "bodyText": "- A simple Task Tracker web app made with **Angular 12**.\n - Uses **mock JSON server** to get, add, delete or update tasks.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/task-tracker-app"
-                }
-            ],
-            "tags" : [
-                "TypeScript",
-                "Angular 12",
-                "JavaScript"
-            ]
-        },
-        {
-            "title": "Image Encryption/Decryption",
-            "bodyText": "- A Web App for Image Encryption and Decryption made in **Django**.\n - Uses **SDES** algorithm for encryption/decryption.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/img-encrypt-sdes"
-                }
-            ],
-            "tags" : [
-                "Python",
-                "Django",
-                "SDES",
-                "Cryptography"
+                "ReactJS",
+                "Ruby on Rails",
+                "Action Cable",
+                "PostgreSQL"
             ]
         }
     ]
