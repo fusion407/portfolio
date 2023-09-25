@@ -3,7 +3,7 @@
         {
             "image" : "images/projects/dnd.png",
             "title": "Dungeons and Dragons Character Creator",
-            "bodyText": "- Manipulated the DOM using vanilla Javascript functions in order to create an interactive single page environment.\n - Utilized CSS in order to stylize an interesting and mobile-friendly design.\n - Fetched data from an external API to display information that aids users to make decisions in character creation.",
+            "bodyText": "- Manipulated the DOM using vanilla Javascript functions in order to create an interactive single page environment.\n - Utilized CSS in order to stylize an interesting and unique design.\n - Fetched data from an external API to display information that aids users to make decisions in character creation.",
             "links": [
                 {
                     "text": "GitHub",
@@ -56,6 +56,23 @@
                 "Ruby on Rails",
                 "Action Cable",
                 "PostgreSQL"
+            ]
+        },
+        {
+            "image" : "images/projects/edm.png",
+            "title": "EDM Concert API",
+            "bodyText": "- Users may create, read, edit, and delete data containing notable EDM concert sets and raves.\n - A backend was created as an external API for other developers to use in their own projects.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/fusion407/Eletronic-Dance-Music-API"
+                }
+            ],
+            "tags" : [
+                "ReactJS",
+                "Ruby",
+                "PostgreSQL",
+                "Bootstrap"
             ]
         }
     ]
