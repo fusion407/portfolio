@@ -48,6 +48,14 @@
                 {
                     "icon": "images/skills/git.png",
                     "title": "Git"
+                },
+                {
+                    "icon": "images/skills/unrealengine.png",
+                    "title": "Unreal Engine"
+                },
+                {
+                    "icon": "images/skills/godot.png",
+                    "title": "Godot"
                 }
             ]
     }

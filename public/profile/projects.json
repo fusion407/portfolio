@@ -21,6 +21,26 @@
             ]
         },
         {
+            "image" : "images/projects/spellsandpotions.png",
+            "title": "Spells & Potions, Inc.",
+            "bodyText": "- Spells & Potions, Inc. is a 2D action survival game where you play as a wizard-in-training. The duties a wizard must take to advance his career is to go out, slay shadow spirits, and save civilians! The player will be able to craft potions to help them fight and survive.\n - This game was made for PirateSoftwares July 2024's game jam with a team of 5 artists and developers.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/fusion407/GameJam_FusionGTZ"
+                },
+                {
+                    "text": "Demo",
+                    "href": "https://fusiongtz.itch.io/spells-potions-inc"
+                }
+            ],
+            "tags" : [
+                "Godot",
+                "GDScript",
+                "Git"
+            ]
+        },
+        {
             "image" : "images/projects/event-management-system.png",
             "title": "Event Management System",
             "bodyText": "- Full CRUD was implemented to allow users to utilize routes for manipulating event data.\n - Added validations in each form so data being created stays consistent with written constraints.\n - Developed with ReactJS and Ruby on Rails to create a full stack application.",
