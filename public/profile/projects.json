@@ -1,23 +1,20 @@
 {
     "projects" : [
         {
-            "image" : "images/projects/dnd.png",
-            "title": "Dungeons and Dragons Character Creator",
-            "bodyText": "- Manipulated the DOM using vanilla Javascript functions in order to create an interactive single page environment.\n - Utilized CSS in order to stylize an interesting and unique design.\n - Fetched data from an external API to display information that aids users to make decisions in character creation.",
+            "image" : "images/projects/project-zukes.png",
+            "title": "Project Zukes",
+            "bodyText": "- A multiplayer co-op survival horror game being developed using Unreal Engine 5.4, where players capture ghosts and collect items to progress.\n - All 3D Models and animations are created using Blender 4.0.\n - Implemented network replication for seamless multiplayer experiences.\n - Designed procedural generation systems to create varied and dynamic dungeons.",
             "links": [
                 {
-                    "text": "GitHub",
-                    "href": "https://github.com/fusion407/DnD-Character-Creator"
-                },
-                {
-                    "text": "Live",
-                    "href": "https://fusion407.github.io/DnD-Character-Creator/"
+                    "text": "Artstation",
+                    "href": "https://www.artstation.com/artwork/vb1gyd"
                 }
             ],
             "tags" : [
-                "HTML",
-                "CSS",
-                "Vanilla JavaScript"
+                "Unreal Engine",
+                "Blueprint Scripting",
+                "C++",
+                "Blender"
             ]
         },
         {
@@ -38,6 +35,26 @@
                 "Godot",
                 "GDScript",
                 "Git"
+            ]
+        },
+        {
+            "image" : "images/projects/dnd.png",
+            "title": "Dungeons and Dragons Character Creator",
+            "bodyText": "- Manipulated the DOM using vanilla Javascript functions in order to create an interactive single page environment.\n - Utilized CSS in order to stylize an interesting and unique design.\n - Fetched data from an external API to display information that aids users to make decisions in character creation.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/fusion407/DnD-Character-Creator"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://fusion407.github.io/DnD-Character-Creator/"
+                }
+            ],
+            "tags" : [
+                "HTML",
+                "CSS",
+                "Vanilla JavaScript"
             ]
         },
         {
@@ -81,7 +98,7 @@
         {
             "image" : "images/projects/edm.png",
             "title": "EDM Concert API",
-            "bodyText": "- Users may create, read, edit, and delete data containing notable EDM concert sets and raves.\n - A backend was created as an external API for other developers to use in their own projects.",
+            "bodyText": "- Designed and developed a backend API, enabling seamless integration for other developers to incorporate EDM concert data into their projects.\n - Implemented full CRUD functionality to manage a comprehensive database of EDM events.",
             "links": [
                 {
                     "text": "GitHub",

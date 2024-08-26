@@ -21,6 +21,10 @@
                     "title": "Ruby"
                 },
                 {
+                    "icon": "images/skills/cplusplus.png",
+                    "title": "C++"
+                },
+                {
                     "icon": "images/skills/postgresql.png",
                     "title": "PostgreSQL"
                 }
