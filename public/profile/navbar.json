@@ -23,8 +23,13 @@
             "href": "/projects"
         },
         {
-            "title": "Resume",
-            "href": "https://drive.google.com/file/d/1kXsRO12-CCAsVv6d7WDpuet55sIx22CR/view?usp=sharing",
+            "title": "Web Development",
+            "href": "https://drive.google.com/file/d/1rmlF81SyaB6i4cjL7kJgx4Fqi1VOOrzM/view?usp=sharing",
+            "type": "link"
+        },
+        {
+            "title": "Game Development",
+            "href": "https://drive.google.com/file/d/1LnJf7N_Umvdy20zErYhBIUU7Zz3ELkhH/view?usp=sharing",
             "type": "link"
         }
     ]
