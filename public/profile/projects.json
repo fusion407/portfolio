@@ -120,7 +120,7 @@
         },
         {
             "image" : "images/projects/forumapp.png",
-            "title": "Forum App",
+            "title": "Forum Application",
             "bodyText": "- ReactJS framework was used in order to create a responsive single-page application.\n - Properly using fetch requests in order to send and recieve JSON data.\n - UI frameworks such as Material UI was implemented to provide an appealing front end design.",
             "links": [
                 {
