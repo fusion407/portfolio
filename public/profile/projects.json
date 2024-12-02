@@ -3,16 +3,64 @@
         {
             "image" : "images/projects/project-zukes.png",
             "title": "Project Zukes",
-            "bodyText": "- A multiplayer co-op survival horror game being developed using Unreal Engine 5.4, where players capture ghosts and collect items to progress.\n - All 3D Models and animations are created using Blender 4.0.\n - Implemented network replication for seamless multiplayer experiences.\n - Designed procedural generation systems to create varied and dynamic dungeons.",
+            "bodyText": "A multiplayer co-op survival horror game developed using Unreal Engine 5.\n - All 3D Models including the character rig and animations are created using Blender 4.0.\n - Implemented network replication for seamless multiplayer experiences.\n - Designed procedural generation systems to create varied and dynamic dungeons.",
             "links": [
                 {
                     "text": "Artstation",
                     "href": "https://www.artstation.com/artwork/vb1gyd"
+                },
+                {
+                    "text": "Video",
+                    "href": "https://youtu.be/3b777Zk5gq4?si=FIxYjqDwyAafTbCl"
                 }
             ],
             "tags" : [
                 "Unreal Engine",
+                "Multiplayer",
                 "Blueprint Scripting",
+                "Network Replication",
+                "Blender"
+            ]
+        },
+        {
+            "image" : "images/projects/deep-insomnia2.png",
+            "title": "Deep Insomnia",
+            "bodyText": "A single player horror game developed with Unreal Engine 5.\n - Inspiration was taken from legendary titles such as 'Slenderman' and 'Outlast', putting emphasis on level and sound design to create an eery, captivating horror enviornment.\n - The player must explore, survive, and discover the mysteries of the void at which they spawn in.",
+            "links": [
+                {
+                    "text": "Artstation",
+                    "href": "https://www.artstation.com/artwork/5W1BKE"
+                },
+                {
+                    "text": "Video",
+                    "href": "https://youtu.be/Gn1RBmwimN4?si=nHgSmGSpeG6hpc-A"
+                }
+            ],
+            "tags" : [
+                "Unreal Engine",
+                "Single-player",
+                "Blueprint Scripting",
+                "Level Design",
+                "Blender"
+            ]
+        },
+        {
+            "image" : "images/projects/project-quarantine.png",
+            "title": "Project Quarantine",
+            "bodyText": "An arcade shooter game where you play as a robot tank and must shoot your way through waves of enemies in order to survive.\n - Created with Unreal Engine 4 and C++, programmed for scalability and compatibility with UE blueprints.\n - 3D Models were created with Blender.\n - Simple AI created for challenging and diverse gameplay.",
+            "links": [
+                {
+                    "text": "Artstation",
+                    "href": "https://www.artstation.com/artwork/0lX0VY"
+                },
+                {
+                    "text": "Video",
+                    "href": "https://youtu.be/-wq1S4oiEE0?si=BiT4jp8jy294nWS5"
+                }
+            ],
+            "tags" : [
+                "Unreal Engine",
+                "Single-player",
                 "C++",
                 "Blender"
             ]
@@ -20,7 +68,7 @@
         {
             "image" : "images/projects/spellsandpotions.png",
             "title": "Spells & Potions, Inc.",
-            "bodyText": "- Spells & Potions, Inc. is a 2D action survival game where you play as a wizard-in-training. The duties a wizard must take to advance his career is to go out, slay shadow spirits, and save civilians! The player will be able to craft potions to help them fight and survive.\n - This game was made for PirateSoftwares July 2024's game jam with a team of 5 artists and developers.",
+            "bodyText": "A 2D action survival game where you play as a wizard-in-training. The duties a wizard must take to advance his career is to go out, slay shadow spirits, and save civilians! The player will be able to craft potions to help them fight and survive.\n - This game was made for PirateSoftwares July 2024's game jam with a team of 5 artists and developers.",
             "links": [
                 {
                     "text": "GitHub",
@@ -29,10 +77,15 @@
                 {
                     "text": "Demo",
                     "href": "https://fusiongtz.itch.io/spells-potions-inc"
+                },
+                {
+                    "text": "GDD",
+                    "href": "https://docs.google.com/document/d/1K43yhHWUsYOf_cDMBL9iXDNptBk2ZrA_UKuctrfkVIs/edit?usp=sharing"
                 }
             ],
             "tags" : [
                 "Godot",
+                "Single-player",
                 "GDScript",
                 "Git"
             ]
@@ -49,12 +102,51 @@
                 {
                     "text": "Live",
                     "href": "https://fusion407.github.io/DnD-Character-Creator/"
+                },
+                {
+                    "text": "Blog",
+                    "href": "https://dev.to/fusion407/simple-dungeons-and-dragons-creator-1op4"
+                },
+                {
+                    "text": "Video",
+                    "href": "https://youtu.be/jMk1JpoTMJw?si=KWqi1i2EIgXsna1Q"
                 }
             ],
             "tags" : [
                 "HTML",
                 "CSS",
                 "Vanilla JavaScript"
+            ]
+        },
+        {
+            "image" : "images/projects/forumapp.png",
+            "title": "Forum App",
+            "bodyText": "- ReactJS framework was used in order to create a responsive single-page application.\n - Properly using fetch requests in order to send and recieve JSON data.\n - UI frameworks such as Material UI was implemented to provide an appealing front end design.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/fusion407/chat-app-frontend"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://fusion407-chat-app.netlify.app/"
+                },
+                {
+                    "text": "Blog",
+                    "href": "https://dev.to/fusion407/exploring-react-hooks-usestate-useeffect-5864"
+                },
+                {
+                    "text": "Video",
+                    "href": "https://youtu.be/GP1t36WpXdU?si=t1DtQbYP_QAaSpB6"
+                }
+                
+            ],
+            "tags" : [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "React",
+                "Material UI"
             ]
         },
         {
@@ -69,6 +161,10 @@
                 {
                     "text": "Live",
                     "href": "https://event-management-system-qmse.onrender.com/"
+                },
+                {
+                    "text": "Blog",
+                    "href": "https://dev.to/fusion407/creating-an-event-manager-with-ruby-on-rails-26m2"
                 }
             ],
             "tags" : [
@@ -86,7 +182,16 @@
                 {
                     "text": "GitHub",
                     "href": "https://github.com/fusion407/Roleplay-chat"
+                },
+                {
+                    "text": "Blog",
+                    "href": "https://dev.to/fusion407/roleplay-chat-application-rails-and-react-with-action-cable-2gni"
+                },
+                {
+                    "text": "Video",
+                    "href": "https://youtu.be/3hnnehdYlMU?si=XLp3GS7DpIachkju"
                 }
+
             ],
             "tags" : [
                 "ReactJS",
@@ -101,9 +206,22 @@
             "bodyText": "- Designed and developed a backend API, enabling seamless integration for other developers to incorporate EDM concert data into their projects.\n - Implemented full CRUD functionality to manage a comprehensive database of EDM events.",
             "links": [
                 {
-                    "text": "GitHub",
+                    "text": "GitHub - Frontend",
+                    "href": "https://github.com/fusion407/Electronic-Dance-Music-Application"
+                },
+                {
+                    "text": "GitHub - Backend",
                     "href": "https://github.com/fusion407/Eletronic-Dance-Music-API"
+                },
+                {
+                    "text": "Blog",
+                    "href": "https://dev.to/fusion407/edm-concert-api-creating-a-full-stack-application-with-rubys-sinatra-and-reactjs-m2o"
+                },
+                {
+                    "text": "Video",
+                    "href": "https://youtu.be/rKcGp0uN3WQ?si=7C4BGaHhCNn2xQSP"
                 }
+
             ],
             "tags" : [
                 "ReactJS",
