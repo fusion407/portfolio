@@ -43,6 +43,10 @@
                 {
                     "icon": "images/skills/nodejs.png",
                     "title": "Nodejs"
+                },
+                {
+                    "icon": "images/skills/wwise.png",
+                    "title": "Wwise"
                 }
             ]
         },
@@ -54,12 +58,24 @@
                     "title": "Git"
                 },
                 {
+                    "icon": "images/skills/perforce.png",
+                    "title": "Perforce"
+                },
+                {
                     "icon": "images/skills/unrealengine.png",
                     "title": "Unreal Engine"
                 },
                 {
                     "icon": "images/skills/godot.png",
                     "title": "Godot"
+                },
+                {
+                    "icon": "images/skills/jira.png",
+                    "title": "Jira"
+                },
+                {
+                    "icon": "images/skills/confluence.png",
+                    "title": "Confluence"
                 }
             ]
     }
